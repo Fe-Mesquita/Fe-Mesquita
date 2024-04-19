@@ -7,7 +7,7 @@ Atualmente trabalhando com Logistica mas estou em transição de carreira para a
 Estudando programação full stack do completo zero desde Novembro/2023 na instituição de ensino DevClub.
 Busco oportunidade para entrar nesse mundo de códigos que sempre gostei mas só descobri agora que essa é minha vocação.
 
-Tecnologias aprendidas.
+Tecnologias.
 
 - HTML
 - CSS
@@ -25,7 +25,10 @@ Tecnologias em andamento.
 
   Em construção.
 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email-logo">
+  
 
 
 
