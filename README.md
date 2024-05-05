@@ -14,7 +14,7 @@ Tecnologias.
 - GIT & GITHUB
 - Figma
 
-Tecnologias em andamento.
+Cursando:
 
 - JavaScript
 - React
