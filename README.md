@@ -35,13 +35,6 @@ Atualmente trabalhando com Logistica mas estou em transição de carreira para a
 Estudando programação full stack do completo zero desde Novembro/2023 na instituição de ensino DevClub.
 Busco oportunidade para entrar nesse mundo de códigos que sempre gostei mas só descobri agora que essa é minha vocação.
 
-Tecnologias.
-
-- HTML
-- CSS
-- GIT & GITHUB
-- Figma
-
 Cursando:
 
 - JavaScript
